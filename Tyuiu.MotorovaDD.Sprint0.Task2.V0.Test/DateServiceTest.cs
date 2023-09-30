@@ -14,7 +14,7 @@ namespace Tyuiu.MotorovaDD.Sprint0.Task2.V0.Test
             var name = "Дана";
             var res = DataService.GetMessage(name);
             // Вызываем класс Assert и метод AreEqual
-            Assert AreEqual("Привет, Дана", res) ;
+            Assert AreEqual("Привет, Дана", res) ; 
 
         }
     }
