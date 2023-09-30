@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{BF7139F3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorovaDD.Sprint0.Task0.V0", "Tyuiu.MotorovaDD.Sprint0.Task0.V0\Tyuiu.MotorovaDD.Sprint0.Task0.V0.csproj", "{E1311C01-3DE3-4EA9-82BF-BE76EA09F495}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{1BE66A11-7212-4947-B6D6-E50CF83E1184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorovaDD.Sprint0.Task1.V0", "Tyuiu.MotorovaDD.Sprint0.Task1.V0\Tyuiu.MotorovaDD.Sprint0.Task1.V0.csproj", "{21B6AB83-E0BA-41EE-8B73-DA06DB87C437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{E1311C01-3DE3-4EA9-82BF-BE76EA09F495}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1311C01-3DE3-4EA9-82BF-BE76EA09F495}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1311C01-3DE3-4EA9-82BF-BE76EA09F495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B6AB83-E0BA-41EE-8B73-DA06DB87C437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B6AB83-E0BA-41EE-8B73-DA06DB87C437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B6AB83-E0BA-41EE-8B73-DA06DB87C437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B6AB83-E0BA-41EE-8B73-DA06DB87C437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E1311C01-3DE3-4EA9-82BF-BE76EA09F495} = {BF7139F3-0AE3-4D51-9462-3B286C6467D6}
+		{21B6AB83-E0BA-41EE-8B73-DA06DB87C437} = {1BE66A11-7212-4947-B6D6-E50CF83E1184}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {215E74F7-E473-4B1D-ABFB-C22BFE3345CA}
